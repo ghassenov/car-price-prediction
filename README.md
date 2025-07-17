@@ -14,8 +14,6 @@ A machine learning project that **manually implements** core algorithms to predi
 ## 📊 Performance Results
 - Achieved **RMSE score of 0.46** on validation set
 - Achieved **RMSE score of 0.47** on test set
-- Compared model performance between:
-
 ## 📂 Project Structure
 car-price-prediction/  
 │
