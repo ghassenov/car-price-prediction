@@ -16,12 +16,6 @@ A machine learning project that **manually implements** core algorithms to predi
 - Achieved **RMSE score of 0.47** on test set
 - Compared model performance between:
 
-## 📈 Key Visualizations
-- MSRP distribution before/after log transformation  
-![Price Distribution](plots/log(1+msrp).png)
-- Predictions vs actual values comparison  
-![Prediction Analysis](plots/predictions_vs_actual_distribution.png)
-
 ## 📂 Project Structure
 car-price-prediction/  
 │
